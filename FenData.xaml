@@ -1,0 +1,22 @@
+﻿<Window x:Class="InpollAdmin.FenData"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InpollAdmin"
+        mc:Ignorable="d"
+        Title="FenData" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <DockPanel Height="100" Background="#FFFFBD00">
+                <Label Content="Données de base" FontFamily="..." FontSize="54" Foreground="White" FontWeight="ExtraBold" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </DockPanel>
+
+            <TabControl>
+                <TabItem Height="20" Width="50" Content="Profil"></TabItem>
+                <TabItem Height="20" Width="50" Content="Liste"></TabItem>
+                <TabItem Height="20" Width="50" Content="TypeQuestion"></TabItem>
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>
