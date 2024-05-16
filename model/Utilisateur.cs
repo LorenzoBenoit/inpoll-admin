@@ -17,14 +17,16 @@ namespace InpollAdmin.model
         public string? Profil { get; set; }
         public string? Liste { get; set; }
         public string? RestoreCode { get; set; }
+        public string? Connected { get; set; }
 
 
-        public Utilisateur(string _id, string nom, string prenom, string email)
+        public Utilisateur(string _id, string nom, string prenom, string email, string connected)
         {
             this._Id = _id;
             this.Nom = nom;
             this.Prenom = prenom;
             this.Email = email;
+            this.Connected = connected;
         }
 
         

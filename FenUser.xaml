@@ -18,6 +18,34 @@
                     <ListView x:Name="Users" AlternationCount="2" DockPanel.Dock="Top">
                         <ListView.View>
                             <GridView>
+
+                                <GridViewColumn Header="Connecté">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Ellipse Width="10" Height="10">
+                                                <Ellipse.Style>
+                                                    <Style TargetType="Ellipse">
+                                                        <Setter Property="Fill" Value="Transparent" />
+                                                        <Setter Property="Stroke" Value="Black" />
+                                                        <Setter Property="StrokeThickness" Value="1" />
+                                                        <Setter Property="Visibility" Value="Collapsed" />
+                                                        <Style.Triggers>
+                                                            <DataTrigger Binding="{Binding Connected}" Value="true">
+                                                                <Setter Property="Fill" Value="Green" />
+                                                                <Setter Property="Visibility" Value="Visible" />
+                                                            </DataTrigger>
+                                                            <DataTrigger Binding="{Binding Connected}" Value="false">
+                                                                <Setter Property="Fill" Value="Red" />
+                                                                <Setter Property="Visibility" Value="Visible" />
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </Ellipse.Style>
+                                            </Ellipse>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
                                 <GridViewColumn Header="Id">
                                     <GridViewColumn.CellTemplate>
                                         <DataTemplate>
