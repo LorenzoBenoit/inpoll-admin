@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\fenuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:fenuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\fenuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:fenuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:model\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\tools\\connection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\tools\\connection.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\utilisateurservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\services\\utilisateurservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\sondageservices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\services\\sondageservices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\baseservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\services\\baseservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\utilisateurroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\routes\\utilisateurroutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\sondagerouter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\routes\\sondagerouter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\sondagemodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\model\\sondagemodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\utilisateurmodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\model\\utilisateurmodel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\controllers\\basecontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\controllers\\basecontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\inpoll-lbenoit\\utilisateurrouteur.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:inpoll-lbenoit\\utilisateurrouteur.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\fendata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:fendata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\fendata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:fendata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\services\\utilisateurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:services\\utilisateurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|c:\\users\\loren\\onedrive\\documents\\inpoll-admin-main\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A3353B2-A396-4B31-AE3F-7A9D99BBA164}|InpollAdmin.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "utilisateurRoutes.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\utilisateurRoutes.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\routes\\utilisateurRoutes.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\utilisateurRoutes.js",
+              "RelativeToolTip": "inpoll-lbenoit\\routes\\utilisateurRoutes.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:16.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sondageRouter.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\sondageRouter.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\routes\\sondageRouter.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\routes\\sondageRouter.js",
+              "RelativeToolTip": "inpoll-lbenoit\\routes\\sondageRouter.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SondageModel.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\SondageModel.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\model\\SondageModel.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\SondageModel.js",
+              "RelativeToolTip": "inpoll-lbenoit\\model\\SondageModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:11.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UtilisateurModel.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\UtilisateurModel.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\model\\UtilisateurModel.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\model\\UtilisateurModel.js",
+              "RelativeToolTip": "inpoll-lbenoit\\model\\UtilisateurModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\controllers\\BaseController.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\controllers\\BaseController.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\controllers\\BaseController.js",
+              "RelativeToolTip": "inpoll-lbenoit\\controllers\\BaseController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:56:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SondageServices.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\SondageServices.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\services\\SondageServices.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\SondageServices.js",
+              "RelativeToolTip": "inpoll-lbenoit\\services\\SondageServices.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:56:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\model\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "model\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\model\\Utilisateur.cs",
+              "RelativeToolTip": "model\\Utilisateur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FenUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenUser.xaml.cs",
+              "RelativeDocumentMoniker": "FenUser.xaml.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenUser.xaml.cs",
+              "RelativeToolTip": "FenUser.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FenUser.xaml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenUser.xaml",
+              "RelativeDocumentMoniker": "FenUser.xaml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenUser.xaml",
+              "RelativeToolTip": "FenUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T16:22:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseService.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\BaseService.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\services\\BaseService.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\BaseService.js",
+              "RelativeToolTip": "inpoll-lbenoit\\services\\BaseService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:20.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtilisateurService.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\UtilisateurService.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\services\\UtilisateurService.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\services\\UtilisateurService.js",
+              "RelativeToolTip": "inpoll-lbenoit\\services\\UtilisateurService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "connection.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\tools\\connection.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\tools\\connection.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\tools\\connection.js",
+              "RelativeToolTip": "inpoll-lbenoit\\tools\\connection.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-16T16:57:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FenData.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenData.xaml.cs",
+              "RelativeDocumentMoniker": "FenData.xaml.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenData.xaml.cs",
+              "RelativeToolTip": "FenData.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T16:22:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UtilisateurService.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\services\\UtilisateurService.cs",
+              "RelativeDocumentMoniker": "services\\UtilisateurService.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\services\\UtilisateurService.cs",
+              "RelativeToolTip": "services\\UtilisateurService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "utilisateurRouteur.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\utilisateurRouteur.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\utilisateurRouteur.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\utilisateurRouteur.js",
+              "RelativeToolTip": "inpoll-lbenoit\\utilisateurRouteur.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T16:22:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\app.js",
+              "RelativeDocumentMoniker": "inpoll-lbenoit\\app.js",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\inpoll-lbenoit\\app.js",
+              "RelativeToolTip": "inpoll-lbenoit\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T16:22:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FenData.xaml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenData.xaml",
+              "RelativeDocumentMoniker": "FenData.xaml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\FenData.xaml",
+              "RelativeToolTip": "FenData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T16:22:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:22:10.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-09T13:46:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T16:22:10.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

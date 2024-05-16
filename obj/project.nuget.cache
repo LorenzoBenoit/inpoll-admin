@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZLgcFW5XQj8L3ItyvzijLGhkk07D0TSsP1pu7qdgKopLyNYKd4pQ7m2TBs1CE7Xf4ZWF6SJFAMQEQGTsEgyqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Documents\\inpoll-admin-main\\InpollAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loren\\.nuget\\packages\\jsonconverter.abstractions\\0.4.0\\jsonconverter.abstractions.0.4.0.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\loren\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
